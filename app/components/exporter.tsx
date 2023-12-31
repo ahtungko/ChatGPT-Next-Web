@@ -538,7 +538,7 @@ export function ImagePreviewer(props: {
           </div>
 
           <div>
-            <div className={styles["main-title"]}>NextChat</div>
+            <div className={styles["main-title"]}>AI Assistant</div>
             <div className={styles["sub-title"]}>
               小可爱不吃糖糖
             </div>
